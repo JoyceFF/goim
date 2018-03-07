@@ -1,0 +1,343 @@
+[90m[10163][0m [32m INFO[0m [goim/im.routeChat.func1.4:126] on disconnect
+[90m[10164][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[10165][0m [32m INFO[0m [goim/im.routeChat.func1.4:126] on disconnect
+[90m[10166][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[10442][0m [32m INFO[0m [goim/im.routeChat.func1.4:126] on disconnect
+[90m[10444][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[10464][0m [32m INFO[0m [goim/im.routeChat.func1.4:126] on disconnect
+[90m[10465][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:93] []
+[90m[0003][0m [32m INFO[0m[36m toom:[0m [goim/im.routeChat.func1:95] 
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:96] on connection
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:93] []
+[90m[0003][0m [32m INFO[0m[36m toom:[0m [goim/im.routeChat.func1:95] 
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:96] on connection
+[90m[0003][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0003][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0060][0m [32m INFO[0m [goim/im.routeChat.func1.4:128] on disconnect
+[90m[0061][0m [32m INFO[0m [goim/im.routeChat.func1:93] []
+[90m[0061][0m [32m INFO[0m[36m toom:[0m [goim/im.routeChat.func1:95] 
+[90m[0061][0m [32m INFO[0m [goim/im.routeChat.func1:96] on connection
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[0004][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[0013][0m [32m INFO[0m [goim/im.routeChat.func1.4:130] on disconnect
+[90m[0013][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[0013][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0013][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0022][0m [32m INFO[0m [goim/im.routeChat.func1.1:97] 888888
+[90m[0022][0m [32m INFO[0m[36m 123 34 115 116 97 116 117 115 34 58 49 44 34 117 115 101 114 34 58 123 34 117 105 100 34 58 34 56 56 56 56 56 56 34 44 34 97 116 116 114 105 98 117 116 101 115 34 58 123 34 110 97 109 101 34 58 34 230 153 174 231 189 151 231 177 179 228 191 174 230 150 175 34 125 44 34 116 121 112 101 34 58 49 44 34 116 115 34 58 34 50 48 49 56 45 48 50 45 48 55 32 48 57 58 51 48 58 51 51 34 125 125:[0m [goim/im.routeChat.func1.1:108] 
+[90m[0022][0m [32m INFO[0m [goim/im.routeChat.func1.1:111] []
+[90m[0022][0m [32m INFO[0m[36m 888888:[0m [goim/im.routeChat.func1.1:113] 
+[90m[0033][0m [32m INFO[0m [goim/im.routeChat.func1.1:97] 999999
+[90m[0033][0m [32m INFO[0m[36m 123 34 115 116 97 116 117 115 34 58 49 44 34 117 115 101 114 34 58 123 34 117 105 100 34 58 34 57 57 57 57 57 57 34 44 34 97 116 116 114 105 98 117 116 101 115 34 58 123 34 110 97 109 101 34 58 34 233 152 191 231 177 179 229 176 148 34 125 44 34 116 121 112 101 34 58 49 44 34 116 115 34 58 34 50 48 49 56 45 48 50 45 48 55 32 48 57 58 51 49 58 48 52 34 125 125:[0m [goim/im.routeChat.func1.1:108] 
+[90m[0033][0m [32m INFO[0m [goim/im.routeChat.func1.1:111] []
+[90m[0033][0m [32m INFO[0m[36m 999999:[0m [goim/im.routeChat.func1.1:113] 
+[90m[0081][0m [32m INFO[0m [goim/im.routeChat.func1.4:130] on disconnect
+[90m[0082][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[0090][0m [32m INFO[0m [goim/im.routeChat.func1.1:97] 999999
+[90m[0090][0m [32m INFO[0m[36m 123 34 115 116 97 116 117 115 34 58 49 44 34 117 115 101 114 34 58 123 34 117 105 100 34 58 34 57 57 57 57 57 57 34 44 34 97 116 116 114 105 98 117 116 101 115 34 58 123 34 110 97 109 101 34 58 34 233 152 191 231 177 179 229 176 148 34 125 44 34 116 121 112 101 34 58 49 44 34 116 115 34 58 34 50 48 49 56 45 48 50 45 48 55 32 48 57 58 51 49 58 48 52 34 125 125:[0m [goim/im.routeChat.func1.1:108] 
+[90m[0090][0m [32m INFO[0m [goim/im.routeChat.func1.1:111] []
+[90m[0090][0m [32m INFO[0m[36m 999999:[0m [goim/im.routeChat.func1.1:113] 
+[90m[0213][0m [32m INFO[0m [goim/im.routeChat.func1.4:130] on disconnect
+[90m[0251][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[0256][0m [32m INFO[0m [goim/im.routeChat.func1.4:130] on disconnect
+[90m[0257][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[0259][0m [32m INFO[0m [goim/im.routeChat.func1.4:130] on disconnect
+[90m[0259][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[0260][0m [32m INFO[0m [goim/im.routeChat.func1.4:130] on disconnect
+[90m[0261][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[1049][0m [32m INFO[0m [goim/im.routeChat.func1.4:130] on disconnect
+[90m[1052][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[1053][0m [32m INFO[0m [goim/im.routeChat.func1.4:130] on disconnect
+[90m[1054][0m [32m INFO[0m [goim/im.routeChat.func1:94] on connection
+[90m[0000][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0009][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0009][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0026][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"888888","to":"999999","msg":"asd","type":1}
+[90m[0057][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"888888","to":"999999","msg":"qweqw","type":1}
+[90m[0124][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"888888","to":"999999","msg":"asdasd","type":1}
+[90m[0167][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"999999","to":"888888","msg":"asdas","type":1}
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0015][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0015][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0020][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"999999","to":"888888","msg":"dsfsdf","type":1}
+[90m[0001][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0061][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0129][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0129][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0129][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0129][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0130][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0131][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0131][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0132][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0204][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0205][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0205][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0206][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0237][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0237][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0237][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0238][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0245][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0246][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0246][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0247][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0251][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0252][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0252][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0253][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0260][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"888888","to":"999999","msg":"asdas","type":1}
+[90m[0304][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"999999","to":"888888","msg":"asdas","type":1}
+[90m[0000][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0036][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"999999","to":"888888","msg":"and","type":1}
+[90m[0001][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0004][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0048][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0048][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0057][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"999999","to":"888888","msg":"zxcxz","type":1}
+[90m[0086][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0005][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0021][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0021][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0048][0m [32m INFO[0m [goim/im.routeChat.func1.2:113] emit:{"uid":"999999","to":"888888","msg":"asdasdas","type":1}
+[90m[0416][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0416][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0417][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0417][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0607][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0608][0m [32m INFO[0m [goim/im.routeChat.func1.4:125] on disconnect
+[90m[0608][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0609][0m [32m INFO[0m [goim/im.routeChat.func1:95] on connection
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0007][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[0008][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0008][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0008][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0019][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"999999","to":"888888","msg":"asd","type":1}
+[90m[0000][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0001][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[1574][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[1574][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[1574][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[1574][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[1575][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[1576][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[2341][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[2341][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[2342][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[2343][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[2351][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[2351][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[2352][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[2352][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[3149][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[3149][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[3149][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[3151][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[3871][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[3872][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[3873][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[3874][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[3919][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[3920][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[3920][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[3922][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[4090][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[4090][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[4090][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[4091][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[4104][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[4105][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[4105][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[4107][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0004][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0013][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0013][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0028][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"999999","to":"888888","msg":"asd","msgType":1}
+[90m[1217][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"999999","to":"888888","msg":"qweqw","msgType":1}
+[90m[1220][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"999999","to":"888888","msg":"sfsd","msgType":1}
+[90m[7750][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"999999","to":"888888","msg":"asda","msgType":1}
+[90m[12689][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[12690][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[12788][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdas","msgType":1}
+[90m[12818][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[12818][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[12819][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[12819][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[12825][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdas","msgType":1}
+[90m[12863][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"999999","to":"888888","msg":"asdas","msgType":1}
+[90m[0000][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0005][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0005][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0016][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"999999","to":"888888","msg":"asdas","msgType":1}
+[90m[0019][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdasd","msgType":1}
+[90m[0036][0m [32m INFO[0m [goim/im.routeChat.func1.4:144] on disconnect
+[90m[0036][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0074][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"324394","to":"888888","msg":"asdas","msgType":1}
+[90m[0077][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdasd","msgType":1}
+[90m[0001][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0005][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0005][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0016][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0029][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"324394","to":"888888","msg":"asdas","msgType":1}
+[90m[0032][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"324394","msg":"asdsa","msgType":1}
+[90m[0037][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdasd","msgType":1}
+[90m[0022][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0022][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0039][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0054][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"123","msgType":1}
+[90m[0000][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0002][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0002][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0004][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0016][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdasd","msgType":1}
+[90m[0000][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0004][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0048][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdasd","msgType":1}
+[90m[0060][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"999999","to":"888888","msg":"asdas","msgType":1}
+[90m[0072][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0072][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0075][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0076][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0112][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"12312","msgType":1}
+[90m[0123][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"324394","msg":"12312","msgType":1}
+[90m[0264][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0265][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0265][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0266][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0426][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0426][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0427][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0427][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0550][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0550][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0550][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0550][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0794][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0794][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0795][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0795][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0824][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0824][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0825][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0825][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0843][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0843][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0844][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0844][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0863][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0863][0m [32m INFO[0m [goim/im.routeChat.func1.4:145] on disconnect
+[90m[0864][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0865][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0004][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0007][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0000][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0004][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0132][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0132][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0132][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0132][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0133][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0134][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0172][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0172][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0172][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0174][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0226][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0226][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0227][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0227][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0302][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0302][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0303][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0304][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0308][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0309][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0309][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0310][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0333][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0334][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0334][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0335][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0352][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"324394","msg":"asdasd","msgType":1}
+[90m[0373][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"324394","msg":"asdasd","msgType":1}
+[90m[0379][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdasd","msgType":1}
+[90m[0434][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0435][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0435][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0436][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0510][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0510][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0510][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0511][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0575][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0575][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0575][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0576][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0598][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0598][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0599][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0600][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0601][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0601][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0625][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0626][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0627][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0627][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0717][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0718][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0718][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0719][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0738][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0738][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0739][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0740][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0773][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0773][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0774][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0775][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0795][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0795][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0796][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0796][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0829][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0830][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0830][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0830][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0834][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0835][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0848][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"999999","msg":"asdasd","msgType":1}
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0003][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0022][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0022][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0022][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0022][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0035][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0038][0m [32m INFO[0m [goim/im.routeChat.func1.2:121] emit:{"uid":"888888","to":"324394","msg":"asda","msgType":1}
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0015][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0015][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0072][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0009][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0009][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0134][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0135][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0002][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0033][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect
+[90m[0033][0m [32m INFO[0m [goim/db.initMysql:29] mysql:root:admin@tcp(0.0.0.0:3307)/goim?charset=utf8
+[90m[0033][0m [32m INFO[0m [goim/db.initMongo:28] mongo:%s0.0.0.0:27017
+[90m[0295][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0296][0m [32m INFO[0m [goim/im.routeChat.func1:103] on connection
+[90m[0355][0m [32m INFO[0m [goim/im.routeChat.func1.4:146] on disconnect

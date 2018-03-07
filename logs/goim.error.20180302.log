@@ -1,0 +1,2 @@
+[90m[0017][0m [31mERROR[0m [goim/im.CreateRoom:28] Error 1146: Table 'goim.room' doesn't exist
+[90m[0202][0m [31mERROR[0m [goim/im.Login:165] user non existent

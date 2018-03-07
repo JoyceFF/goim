@@ -1,0 +1,19 @@
+[90m[5890][0m [32m INFO[0m [goim/im.routeChat.func2.2:141] on disconnect
+[90m[14566][0m [32m INFO[0m [goim/im.routeChat.func2:117] on connection
+[90m[14566][0m [32m INFO[0m [goim/im.routeChat.func2.1:120] login:999999
+[90m[14606][0m [32m INFO[0m [goim/im.routeChat.func2:117] on connection
+[90m[14607][0m [32m INFO[0m [goim/im.routeChat.func2.1:120] login:999999
+[90m[14611][0m [32m INFO[0m [goim/im.routeChat.func2.2:141] on disconnect
+[90m[14611][0m [32m INFO[0m [goim/im.routeChat.func2.2:141] on disconnect
+[90m[14616][0m [32m INFO[0m [goim/im.routeChat.func2:117] on connection
+[90m[14617][0m [32m INFO[0m [goim/im.routeChat.func2.1:120] login:888888
+[90m[14621][0m [32m INFO[0m [goim/im.routeChat.func2.2:141] on disconnect
+[90m[14622][0m [32m INFO[0m [goim/im.routeChat.func2:117] on connection
+[90m[14623][0m [32m INFO[0m [goim/im.routeChat.func2.1:120] login:888888
+[90m[14625][0m [32m INFO[0m [goim/im.routeChat.func2.2:141] on disconnect
+[90m[14626][0m [32m INFO[0m [goim/im.routeChat.func2:117] on connection
+[90m[14626][0m [32m INFO[0m [goim/im.routeChat.func2.1:120] login:999999
+[90m[14638][0m [32m INFO[0m [goim/im.routeChat.func2.3:150] emit:{"uid":"888888","to":"999999","msg":"asdasdas","msgType":1}
+[90m[14642][0m [32m INFO[0m [goim/im.routeChat.func2.3:150] emit:{"uid":"999999","to":"888888","msg":"adsas","msgType":1}
+[90m[14647][0m [32m INFO[0m [goim/im.routeChat.func2.3:150] emit:{"uid":"999999","to":"888888","msg":"你好","msgType":1}
+[90m[15658][0m [32m INFO[0m [goim/im.routeChat.func2.2:141] on disconnect

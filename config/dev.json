@@ -1,0 +1,16 @@
+{
+  "port":9999,
+  "socketPort":6666,
+  "mysql":{
+    "host":"0.0.0.0",
+    "port":"3307",
+    "user": "root",
+    "password": "admin",
+    "database": "goim"
+  },
+  "mongo":{
+    "host":"0.0.0.0",
+    "port":"27017",
+    "database":"goim"
+  }
+}
