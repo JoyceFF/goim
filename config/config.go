@@ -23,6 +23,7 @@ type mongoConfig struct {
 }
 
 type Config struct {
+	Port  string   `json:"port"`
 	Mysql mysqlConfig `json:"mysql"`
 	Mongo mongoConfig `json:"mongo"`
 }

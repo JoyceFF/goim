@@ -39,6 +39,12 @@ npm install
 npm start
 ```
 
+依赖 mongo 和 mysql 数据库  请在config/dev/config 修改mongo 配置   redis配置不是必须
+
+推荐docker 安装mongo  https://hub.docker.com/_/mongo/
+
+**后面加入docker 运行**
+
 浏览器输入 http://localhost:3333/ 既可以进入登陆页面
 
 ![login](docs/WX20180309-101921@2x.png)

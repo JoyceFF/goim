@@ -9,6 +9,7 @@ import (
 	"time"
 	"encoding/json"
 	"errors"
+	"goim/config"
 )
 
 func Init() {
@@ -45,8 +46,10 @@ func Start() {
 
 	router.GET("/socket.io/", socketHandler)
 
+	port := config.GetConfig().Port
+
 	server := &http.Server{
-		Addr:           ":5001",
+		Addr:           ":"+port,
 		Handler:        router,
 		ReadTimeout:    10 * time.Second,
 		WriteTimeout:   10 * time.Second,
@@ -60,7 +63,7 @@ func Start() {
 		panic(httpErr)
 	}
 
-	log.Info("Serving at localhost:7000...")
+	log.Infof("Serving at localhost:%s...",port)
 }
 
 func routeApi(router *gin.Engine) {

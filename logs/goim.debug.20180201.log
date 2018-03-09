@@ -1,6 +1,0 @@
-[90m[0002][0m [34mDEBUG[0m [goim/im.FindUser:42] select * from user where name like '%s%!'(string=) offset  limit 
-[90m[0050][0m [34mDEBUG[0m [goim/im.FindUser:42] select * from user where name like '%s%!'(string=) offset  limit 
-[90m[0012][0m [34mDEBUG[0m [goim/im.FindUser:43] select * from user where name like '%s%!'(string=) offset 0 limit 20
-[90m[0007][0m [34mDEBUG[0m [goim/im.FindUser:43] select * from user where name like '%s %!'(string=) offset 0 limit 20
-[90m[0005][0m [34mDEBUG[0m [goim/im.FindUser:43] select * from user where name like '%s %!'(string=) offset 0 limit 20
-[90m[0006][0m [34mDEBUG[0m [goim/im.FindUser:43] select * from user where name like  '%' offset 0 limit 20
