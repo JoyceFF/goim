@@ -39,10 +39,11 @@ npm install
 npm start
 ```
 
-依赖 mongo 和 mysql 数据库  请在config/dev.json 修改mongo 和 mysql 配置
+依赖 mongo 和 mysql 数据库  请在config/dev.json 修改mongo 和 mysql 配置  redis不是必须
 
 推荐docker 安装mongo  https://hub.docker.com/_/mongo/
            安装mysql https://hub.docker.com/_/mysql/
+           安装redis  https://hub.docker.com/_/redis/
 
 **后面加入docker 运行**
 
