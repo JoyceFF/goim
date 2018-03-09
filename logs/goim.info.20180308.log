@@ -85,3 +85,4 @@
 [90m[0261][0m [32m INFO[0m [goim/im.routeChat.func2.3:150] emit:{"uid":"999999","to":"888888","msg":"你好，我是啊米尔。","msgType":1}
 [90m[0274][0m [32m INFO[0m [goim/im.routeChat.func2.3:150] emit:{"uid":"888888","to":"999999","msg":"你好，我是普罗米修斯。","msgType":1}
 [90m[0694][0m [32m INFO[0m [goim/im.routeChat.func2.2:141] on disconnect
+[90m[9357][0m [32m INFO[0m [goim/im.routeChat.func2.2:141] on disconnect

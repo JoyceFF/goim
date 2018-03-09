@@ -19,3 +19,26 @@ goim 是用golang 写的即时通讯
 
 ![示例](docs/WX20180308-191908@2x.png)
 
+
+
+###启动方式
+
+go server
+
+```shell
+cd goim
+go build
+./goim
+```
+
+html server
+
+```shell
+cd goim/www
+npm install
+npm start
+```
+
+浏览器输入 http://localhost:3333/ 既可以进入登陆页面
+
+![login](docs/WX20180309-101921@2x.png)
